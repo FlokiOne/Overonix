@@ -8,7 +8,6 @@ import com.Overonix.Test.presentation.dto.RqUserAddress;
 import com.Overonix.Test.presentation.dto.RsAddress;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.RequestParam;
 
 @Component
 public class SaveLocationForUserUseCase {
