@@ -1,0 +1,2 @@
+insert into "public"."e_role" (id, name) values ('8980334c-b035-490b-8d22-b9a0ddc15ea2', 'ROLE_USER');
+insert into "public"."e_role" (id, name) values ('fd4af210-3b70-4491-b7a3-215a12c3cbe6', 'ROLE_ADMIN');

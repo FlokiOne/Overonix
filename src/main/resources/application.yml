@@ -1,0 +1,5 @@
+nominatim:
+  search: https://nominatim.openstreetmap.org/search
+  reverse: https://nominatim.openstreetmap.org/reverse
+  addressdetails: 1
+  format: json
